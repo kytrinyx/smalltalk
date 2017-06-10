@@ -10,11 +10,6 @@
   "deprecated": [
 
   ],
-  "ignored": [
-    "bin",
-    "img",
-    "docs"
-  ],
   "foregone": [
 
   ]
